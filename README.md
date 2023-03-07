@@ -1,4 +1,4 @@
-# Blog3
+# Blog_3
 
 This is the reposity where I will be storing my data and code for Blogs 3a-c, which involves finding some data, performing exploratory data analysis, and discovering what story the data tells us.
 
