@@ -19,7 +19,7 @@
 17,Santa Baby,The Taylor Swift Holiday Collection,3,7011906,158.6,-1,-1
 18,Silent Night,The Taylor Swift Holiday Collection,4,3388686,209.893,-1,-1
 19,Christmas Must Be Something More,The Taylor Swift Holiday Collection,5,4266171,232.146,-1,-1
-20,White Christmas,The Taylor Swift Holiday Collection,6,3864811,154.0,-1,-1
+20,White Christmas,The Taylor Swift Holiday Collection,6,3864811,154,-1,-1
 21,Fearless,Fearless,1,171683650,241.7885,9,16
 22,Fifteen,Fearless,2,149816250,294.376,23,22
 23,Love Story,Fearless,3,994241372,235.516,4,51
@@ -29,10 +29,10 @@
 27,Breathe,Fearless,7,99701599,263.675,87,1
 28,Tell Me Why,Fearless,8,59807647,200.5605,-1,-1
 29,You're Not Sorry,Fearless,9,41209994,261.786,11,5
-30,The Way I Loved You,Fearless,10,259052806,243.68099999999998,72,2
-31,Forever & Always,Fearless,11,134200775,239.49366666666666,34,4
+30,The Way I Loved You,Fearless,10,259052806,243.681,72,2
+31,Forever & Always,Fearless,11,134200775,239.4936667,34,4
 32,The Best Day,Fearless,12,63075765,245.3115,-1,-1
-33,Change,Fearless,13,49136630,279.79949999999997,10,3
+33,Change,Fearless,13,49136630,279.7995,10,3
 34,You’re Not Sorry,Fearless,9,38027361,261.842,-1,-1
 35,Jump Then Fall,Fearless,14,29467892,237.58,10,3
 36,Untouchable,Fearless,15,30417942,312.107,19,2
@@ -64,25 +64,25 @@
 62,If This Was A Movie,Speak Now,16,34393422,234.546,10,2
 63,Superman,Speak Now,17,19503402,275.96,26,1
 64,State Of Grace,Red,1,183606543,308.82975,13,3
-65,Red,Red,2,371635497,223.39966666666666,6,24
+65,Red,Red,2,371635497,223.3996667,6,24
 66,Treacherous,Red,3,130961740,241.071,54,1
 67,I Knew You Were Trouble.,Red,4,634579435,217.973,2,36
-68,All Too Well,Red,5,845784469,423.35966666666667,1,16
+68,All Too Well,Red,5,845784469,423.3596667,1,16
 69,22,Red,6,423346227,230.5465,20,21
 70,I Almost Do,Red,7,111473714,243.5795,59,2
-71,We Are Never Ever Getting Back Together,Red,8,660929957,192.51299999999998,1,25
-72,Stay Stay Stay,Red,9,105476500,205.30599999999998,67,2
+71,We Are Never Ever Getting Back Together,Red,8,660929957,192.513,1,25
+72,Stay Stay Stay,Red,9,105476500,205.306,67,2
 73,The Last Time,Red,10,120957749,298.6865,66,1
 74,Holy Ground,Red,11,98470105,202.4065,76,1
 75,Sad Beautiful Tragic,Red,12,87558515,284.2265,85,1
-76,The Lucky One,Red,13,84461026,240.29950000000002,84,1
+76,The Lucky One,Red,13,84461026,240.2995,84,1
 77,Everything Has Changed,Red,14,313647335,244.6795,32,21
-78,Starlight,Red,15,80213557,219.11950000000002,90,1
-79,Begin Again,Red,16,163330013,238.23950000000002,7,21
-80,The Moment I Knew,Red,17,71212894,285.41999999999996,64,2
+78,Starlight,Red,15,80213557,219.1195,90,1
+79,Begin Again,Red,16,163330013,238.2395,7,21
+80,The Moment I Knew,Red,17,71212894,285.42,64,2
 81,Come Back...Be Here,Red,18,98289673,223.0195,87,1
-82,Girl At Home,Red,19,56378108,220.42000000000002,-1,-1
-83,I Knew You Were Trouble,Red,4,135205256,219.76,46,1
+82,Girl At Home,Red,19,56378108,220.42,-1,-1
+83,I Knew You Were Trouble,Red,20,135205256,219.76,46,1
 84,Ronan,Red,21,25961615,264.253,16,2
 85,Better Man,Red,22,79671243,297.013,51,1
 86,Nothing New,Red,23,126461777,258.812,43,1
@@ -94,7 +94,7 @@
 92,The Very First Night,Red,29,94062366,200.28,61,1
 93,Welcome To New York,1989,1,171842744,212.6,48,2
 94,Blank Space,1989,2,1122089962,181.506,1,36
-95,Style,1989,3,568776412,231.0,6,32
+95,Style,1989,3,568776412,231,6,32
 96,Out Of The Woods,1989,4,216858849,235.8,18,10
 97,All You Had To Do Was Stay,1989,5,153509237,193.293,-1,-1
 98,Shake It Off,1989,6,969308758,219.2,1,50
@@ -104,7 +104,7 @@
 102,How You Get The Girl,1989,10,108885243,247.533,-1,-1
 103,This Love,1989,11,82224445,250.093,50,1
 104,I Know Places,1989,12,95071487,206.0195,-1,-1
-105,Clean,1989,13,127573262,271.0,-1,-1
+105,Clean,1989,13,127573262,271,-1,-1
 106,Wonderland,1989,14,90859578,245.56,51,1
 107,You Are In Love,1989,15,88983548,267.106,83,1
 108,New Romantics,1989,16,154781402,230.466,46,8
@@ -138,12 +138,12 @@
 136,False God,Lover,13,128664707,200.306,77,1
 137,You Need To Calm Down,Lover,14,698470023,171.36,2,21
 138,Afterglow,Lover,15,202527210,223.293,75,1
-139,ME!,Lover,16,710971197,193.0,2,20
+139,ME!,Lover,16,710971197,193,2,20
 140,It’s Nice To Have A Friend,Lover,17,85260763,150.44,-1,-1
 141,Daylight,Lover,18,141925031,293.453,89,1
 142,the 1,folklore,1,343727863,210.24,-1,-1
 143,cardigan,folklore,2,604512794,239.56,-1,-1
-144,the last great american dynasty,folklore,3,215312971,231.0,-1,-1
+144,the last great american dynasty,folklore,3,215312971,231,-1,-1
 145,exile,folklore,4,504354178,285.64,-1,-1
 146,my tears ricochet,folklore,5,254615058,255.893,-1,-1
 147,mirrorball,folklore,6,220863000,208.973,-1,-1
@@ -155,11 +155,11 @@
 153,mad woman,folklore,12,135851942,237.266,-1,-1
 154,epiphany,folklore,13,121067892,289.746,-1,-1
 155,betty,folklore,14,206692710,294.52,-1,-1
-156,peace,folklore,15,131754196,234.0,-1,-1
+156,peace,folklore,15,131754196,234,-1,-1
 157,hoax,folklore,16,118009119,220.04,-1,-1
 158,the lakes,folklore,17,84248686,211.813,-1,-1
 159,willow,evermore,1,544849070,214.706,-1,-1
-160,champagne problems,evermore,2,345816304,244.0,-1,-1
+160,champagne problems,evermore,2,345816304,244,-1,-1
 161,gold rush,evermore,3,181671698,185.32,-1,-1
 162,‘tis the damn season,evermore,4,149947056,229.84,-1,-1
 163,tolerate it,evermore,5,147976757,245.44,-1,-1
